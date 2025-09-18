@@ -6,6 +6,12 @@ This module, TeamCode, is the place where you will write/paste the code for your
 robot controller App. This module is currently empty (a clean slate) but the
 process for adding OpModes is straightforward.
 
+This is a fork of FtcRobotController, where we push our own Teamcode to, so that our sketches will be centralised.
+Axis 28128 Sketch, for the 2025-2026 DECODE season.
+
+This is the sketch that was used for our first demo, in front of our high school. It uses mecanum drive, adapted to work with our robot.
+Most of the code was taken and adapted from GM0. Simple method for utilising the starter kit shooter. More changes to follow.
+
 ## Creating your own OpModes
 
 The easiest way to create your own OpMode is to copy a Sample OpMode and make it your own.
